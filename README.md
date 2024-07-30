@@ -1,2 +1,2 @@
-# ArchivosGIT
-Para los trabajos de GIT y GITHUB
+# README
+Readme de GitHub
